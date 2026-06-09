@@ -1,16 +1,13 @@
-## Hi there 👋
+# EnterpriseBrew
 
-<!--
-**enterprisebrew/enterprisebrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**The secure Homebrew proxy for enterprise networks.**
 
-Here are some ideas to get you started:
+EnterpriseBrew lets IT and security teams control, audit, and manage Homebrew package installations across macOS and Linux developer machines — without changing how developers use `brew`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Block dangerous packages (nmap, netcat, john) across the entire fleet
+- Log every install with user, hostname, formula, version, and timestamp
+- Scan for CVEs and identify affected devices automatically
+- Run fully air-gapped — no developer machine needs direct internet access
+- Deploy in minutes via Docker Compose
+
+**[enterprisebrew.com](https://enterprisebrew.com)**
