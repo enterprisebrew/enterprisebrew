@@ -11,3 +11,13 @@ EnterpriseBrew lets IT and security teams control, audit, and manage Homebrew pa
 - Deploy in minutes via Docker Compose
 
 **[enterprisebrew.com](https://enterprisebrew.com)**
+
+## Blog Posts
+
+**[Securing the macOS Developer Supply Chain in Enterprise Environments](https://enterprisebrew.com/blog/securing-macos-developer-supply-chain)**
+
+**[Managing Homebrew at Scale: From Developer Chaos to IT Compliance](https://enterprisebrew.com/blog/homebrew-at-scale-compliance)**
+
+**[How to Block Dangerous Homebrew Packages in Your Organization](https://enterprisebrew.com/blog/block-dangerous-homebrew-packages)**
+
+
